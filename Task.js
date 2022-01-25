@@ -12,4 +12,3 @@ class Employee {
 
 const a =new Employee("Raj","rrr");
 a.addEmployee();
-console.log("hello");
